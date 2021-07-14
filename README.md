@@ -1,6 +1,6 @@
 # ETC Composition Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=lab&filepath=Untitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=lab&filepath=tree/Untitled.ipynb)
 
 ## Description
 

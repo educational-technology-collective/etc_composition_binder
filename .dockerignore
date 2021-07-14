@@ -1,4 +1,4 @@
 Dockerfile
 .ipynb_checkpoints
-binder/
+binder
 README.md

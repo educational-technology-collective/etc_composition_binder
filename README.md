@@ -2,8 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=lab&filepath=Untitled.ipynb)
 
-# ETC Composition Docker
-
 ## Description
 
 This repository is a Binder-ready repository.  This Binder-ready repository includes a simple webserver with your Binder deployment.  The web server can be used in order to serve HTML documents that may link to your JupyterLab instance.

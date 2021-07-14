@@ -22,7 +22,7 @@ The URL path that will load the `index.html` in the specified document root is:
 https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=public-html/index.html
 
 The URL Path that will load the JuptyerLab Notebook that is in the root of the Binder-ready repository is:
-https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=lab&filepath=Untitled.ipynb
+https://mybinder.org/v2/gh/educational-technology-collective/etc_composition_binder/main?urlpath=lab/tree/Untitled.ipynb
 
 ### Link to the JupyterLab Notebook
 Add an `A` tag to your `index.html` file with the `href` attribute assigned to the URL of the JupyterLab Notebook.  For example:

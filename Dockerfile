@@ -1,1 +1,1 @@
-FROM adpatter/etc_composition_docker:b44afd009ccd
+FROM adpatter/etc_composition_docker:aaccb57f7969
